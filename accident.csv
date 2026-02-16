@@ -1,0 +1,9 @@
+time,weather,road_condition,accidents
+Morning,Clear,Dry,5
+Morning,Rain,Wet,8
+Afternoon,Clear,Dry,6
+Afternoon,Rain,Wet,9
+Evening,Clear,Dry,7
+Evening,Fog,Wet,10
+Night,Fog,Wet,12
+Night,Clear,Dry,4
